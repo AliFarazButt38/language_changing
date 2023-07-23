@@ -1,0 +1,13 @@
+{
+  "app_title": "Furaha Flutter",
+  "welcome_message": "Soosaarid app-kaaga!",
+  "days": {
+    "Mon": "Isniin",
+    "Tue": "Talaado",
+    "Wed": "Arbaco",
+    "Thu": "Khamiis",
+    "Fri": "Jimco",
+    "Sat": "Sabti",
+    "Sun": "Axad"
+  }
+}
